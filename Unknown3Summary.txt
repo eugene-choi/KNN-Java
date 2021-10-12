@@ -1,0 +1,171 @@
+############# KNN started for Unknown3.txt ################
+[0.3520624042339283, 0.3552266023125861, 0.35649813727163465, 0.3633503777270282, 0.37021084818060485, 0.37707909942985657, 0.38395471392217656, 0.39083730305497866, 0.39772650474354615, 0.4100067028221687]
+################################################
+ >>> Summary of k = 1 points selected: 
+Results: 
+
+>>> Group with keywords: 
+ airline safety/airline/safety :
+[1 / (0.35206)] = 8.06790
+
+
+*** The unknown document is classified into group with keywords: airline safety/airline/safety
+*** The fuzzy KNN report is as follows: 
+(1) airline safety/airline/safety: 100.00%
+
+################################################
+ >>> Summary of k = 2 points selected: 
+Results: 
+
+>>> Group with keywords: 
+ airline safety/airline/safety :
+[1 / (0.35206)] + [1 / (0.12619)] = 15.99272
+
+
+*** The unknown document is classified into group with keywords: airline safety/airline/safety
+*** The fuzzy KNN report is as follows: 
+(1) airline safety/airline/safety: 100.00%
+
+################################################
+ >>> Summary of k = 3 points selected: 
+Results: 
+
+>>> Group with keywords: 
+ airline safety/airline/safety :
+[1 / (0.35206)] + [1 / (0.12619)] = 15.99272
+
+>>> Group with keywords: 
+ disease/mouth/mouth disease/hoof mouth/hoof/hoof mouth disease :
+[1 / (0.35650)] = 7.86838
+
+
+*** The unknown document is classified into group with keywords: airline safety/airline/safety
+*** The fuzzy KNN report is as follows: 
+(1) airline safety/airline/safety: 67.02%
+(2) disease/mouth/mouth disease/hoof mouth/hoof/hoof mouth disease: 32.98%
+
+################################################
+ >>> Summary of k = 4 points selected: 
+Results: 
+
+>>> Group with keywords: 
+ airline safety/airline/safety :
+[1 / (0.35206)] + [1 / (0.12619)] = 15.99272
+
+>>> Group with keywords: 
+ disease/mouth/mouth disease/hoof mouth/hoof/hoof mouth disease :
+[1 / (0.35650)] + [1 / (0.13202)] = 15.44279
+
+
+*** The unknown document is classified into group with keywords: airline safety/airline/safety
+*** The fuzzy KNN report is as follows: 
+(1) airline safety/airline/safety: 50.87%
+(2) disease/mouth/mouth disease/hoof mouth/hoof/hoof mouth disease: 49.13%
+
+################################################
+ >>> Summary of k = 5 points selected: 
+Results: 
+
+>>> Group with keywords: 
+ disease/mouth/mouth disease/hoof mouth/hoof/hoof mouth disease :
+[1 / (0.35650)] + [1 / (0.13202)] + [1 / (0.13706)] = 22.73908
+
+>>> Group with keywords: 
+ airline safety/airline/safety :
+[1 / (0.35206)] + [1 / (0.12619)] = 15.99272
+
+
+*** The unknown document is classified into group with keywords: disease/mouth/mouth disease/hoof mouth/hoof/hoof mouth disease
+*** The fuzzy KNN report is as follows: 
+(1) disease/mouth/mouth disease/hoof mouth/hoof/hoof mouth disease: 58.71%
+(2) airline safety/airline/safety: 41.29%
+
+################################################
+ >>> Summary of k = 6 points selected: 
+Results: 
+
+>>> Group with keywords: 
+ disease/mouth/mouth disease/hoof mouth/hoof/hoof mouth disease :
+[1 / (0.35650)] + [1 / (0.13202)] + [1 / (0.13706)] + [1 / (0.14219)] = 29.77199
+
+>>> Group with keywords: 
+ airline safety/airline/safety :
+[1 / (0.35206)] + [1 / (0.12619)] = 15.99272
+
+
+*** The unknown document is classified into group with keywords: disease/mouth/mouth disease/hoof mouth/hoof/hoof mouth disease
+*** The fuzzy KNN report is as follows: 
+(1) disease/mouth/mouth disease/hoof mouth/hoof/hoof mouth disease: 65.05%
+(2) airline safety/airline/safety: 34.95%
+
+################################################
+ >>> Summary of k = 7 points selected: 
+Results: 
+
+>>> Group with keywords: 
+ disease/mouth/mouth disease/hoof mouth/hoof/hoof mouth disease :
+[1 / (0.35650)] + [1 / (0.13202)] + [1 / (0.13706)] + [1 / (0.14219)] + [1 / (0.14742)] = 36.55527
+
+>>> Group with keywords: 
+ airline safety/airline/safety :
+[1 / (0.35206)] + [1 / (0.12619)] = 15.99272
+
+
+*** The unknown document is classified into group with keywords: disease/mouth/mouth disease/hoof mouth/hoof/hoof mouth disease
+*** The fuzzy KNN report is as follows: 
+(1) disease/mouth/mouth disease/hoof mouth/hoof/hoof mouth disease: 69.57%
+(2) airline safety/airline/safety: 30.43%
+
+################################################
+ >>> Summary of k = 8 points selected: 
+Results: 
+
+>>> Group with keywords: 
+ disease/mouth/mouth disease/hoof mouth/hoof/hoof mouth disease :
+[1 / (0.35650)] + [1 / (0.13202)] + [1 / (0.13706)] + [1 / (0.14219)] + [1 / (0.14742)] + [1 / (0.15275)] = 43.10175
+
+>>> Group with keywords: 
+ airline safety/airline/safety :
+[1 / (0.35206)] + [1 / (0.12619)] = 15.99272
+
+
+*** The unknown document is classified into group with keywords: disease/mouth/mouth disease/hoof mouth/hoof/hoof mouth disease
+*** The fuzzy KNN report is as follows: 
+(1) disease/mouth/mouth disease/hoof mouth/hoof/hoof mouth disease: 72.94%
+(2) airline safety/airline/safety: 27.06%
+
+################################################
+ >>> Summary of k = 9 points selected: 
+Results: 
+
+>>> Group with keywords: 
+ disease/mouth/mouth disease/hoof mouth/hoof/hoof mouth disease :
+[1 / (0.35650)] + [1 / (0.13202)] + [1 / (0.13706)] + [1 / (0.14219)] + [1 / (0.14742)] + [1 / (0.15275)] + [1 / (0.15819)] = 49.42341
+
+>>> Group with keywords: 
+ airline safety/airline/safety :
+[1 / (0.35206)] + [1 / (0.12619)] = 15.99272
+
+
+*** The unknown document is classified into group with keywords: disease/mouth/mouth disease/hoof mouth/hoof/hoof mouth disease
+*** The fuzzy KNN report is as follows: 
+(1) disease/mouth/mouth disease/hoof mouth/hoof/hoof mouth disease: 75.55%
+(2) airline safety/airline/safety: 24.45%
+
+################################################
+ >>> Summary of k = 10 points selected: 
+Results: 
+
+>>> Group with keywords: 
+ disease/mouth/mouth disease/hoof mouth/hoof/hoof mouth disease :
+[1 / (0.35650)] + [1 / (0.13202)] + [1 / (0.13706)] + [1 / (0.14219)] + [1 / (0.14742)] + [1 / (0.15275)] + [1 / (0.15819)] = 49.42341
+
+>>> Group with keywords: 
+ airline safety/airline/safety :
+[1 / (0.35206)] + [1 / (0.12619)] + [1 / (0.16811)] = 21.94136
+
+
+*** The unknown document is classified into group with keywords: disease/mouth/mouth disease/hoof mouth/hoof/hoof mouth disease
+*** The fuzzy KNN report is as follows: 
+(1) disease/mouth/mouth disease/hoof mouth/hoof/hoof mouth disease: 69.25%
+(2) airline safety/airline/safety: 30.75%

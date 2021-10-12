@@ -1,0 +1,141 @@
+############# KNN started for Unknown8.txt ################
+[0.3137155994408748, 0.32075237526732964, 0.3277906269964415, 0.33483026155622003, 0.341871193523077, 0.34891334435355087, 0.3559566417066354, 0.3700464141013109, 0.4001331338000399, 0.40321912084476724]
+################################################
+ >>> Summary of k = 1 points selected: 
+Results: 
+
+>>> Group with keywords: 
+ disease/mouth/mouth disease/hoof mouth/hoof/hoof mouth disease :
+[1 / (0.31372)] = 10.16080
+
+
+*** The unknown document is classified into group with keywords: disease/mouth/mouth disease/hoof mouth/hoof/hoof mouth disease
+*** The fuzzy KNN report is as follows: 
+(1) disease/mouth/mouth disease/hoof mouth/hoof/hoof mouth disease: 100.00%
+
+################################################
+ >>> Summary of k = 2 points selected: 
+Results: 
+
+>>> Group with keywords: 
+ disease/mouth/mouth disease/hoof mouth/hoof/hoof mouth disease :
+[1 / (0.31372)] + [1 / (0.10288)] = 19.88066
+
+
+*** The unknown document is classified into group with keywords: disease/mouth/mouth disease/hoof mouth/hoof/hoof mouth disease
+*** The fuzzy KNN report is as follows: 
+(1) disease/mouth/mouth disease/hoof mouth/hoof/hoof mouth disease: 100.00%
+
+################################################
+ >>> Summary of k = 3 points selected: 
+Results: 
+
+>>> Group with keywords: 
+ disease/mouth/mouth disease/hoof mouth/hoof/hoof mouth disease :
+[1 / (0.31372)] + [1 / (0.10288)] + [1 / (0.10745)] = 29.18760
+
+
+*** The unknown document is classified into group with keywords: disease/mouth/mouth disease/hoof mouth/hoof/hoof mouth disease
+*** The fuzzy KNN report is as follows: 
+(1) disease/mouth/mouth disease/hoof mouth/hoof/hoof mouth disease: 100.00%
+
+################################################
+ >>> Summary of k = 4 points selected: 
+Results: 
+
+>>> Group with keywords: 
+ disease/mouth/mouth disease/hoof mouth/hoof/hoof mouth disease :
+[1 / (0.31372)] + [1 / (0.10288)] + [1 / (0.10745)] + [1 / (0.11211)] = 38.10731
+
+
+*** The unknown document is classified into group with keywords: disease/mouth/mouth disease/hoof mouth/hoof/hoof mouth disease
+*** The fuzzy KNN report is as follows: 
+(1) disease/mouth/mouth disease/hoof mouth/hoof/hoof mouth disease: 100.00%
+
+################################################
+ >>> Summary of k = 5 points selected: 
+Results: 
+
+>>> Group with keywords: 
+ disease/mouth/mouth disease/hoof mouth/hoof/hoof mouth disease :
+[1 / (0.31372)] + [1 / (0.10288)] + [1 / (0.10745)] + [1 / (0.11211)] + [1 / (0.11688)] = 46.66339
+
+
+*** The unknown document is classified into group with keywords: disease/mouth/mouth disease/hoof mouth/hoof/hoof mouth disease
+*** The fuzzy KNN report is as follows: 
+(1) disease/mouth/mouth disease/hoof mouth/hoof/hoof mouth disease: 100.00%
+
+################################################
+ >>> Summary of k = 6 points selected: 
+Results: 
+
+>>> Group with keywords: 
+ disease/mouth/mouth disease/hoof mouth/hoof/hoof mouth disease :
+[1 / (0.31372)] + [1 / (0.10288)] + [1 / (0.10745)] + [1 / (0.11211)] + [1 / (0.11688)] + [1 / (0.12174)] = 54.87758
+
+
+*** The unknown document is classified into group with keywords: disease/mouth/mouth disease/hoof mouth/hoof/hoof mouth disease
+*** The fuzzy KNN report is as follows: 
+(1) disease/mouth/mouth disease/hoof mouth/hoof/hoof mouth disease: 100.00%
+
+################################################
+ >>> Summary of k = 7 points selected: 
+Results: 
+
+>>> Group with keywords: 
+ disease/mouth/mouth disease/hoof mouth/hoof/hoof mouth disease :
+[1 / (0.31372)] + [1 / (0.10288)] + [1 / (0.10745)] + [1 / (0.11211)] + [1 / (0.11688)] + [1 / (0.12174)] + [1 / (0.12671)] = 62.76992
+
+
+*** The unknown document is classified into group with keywords: disease/mouth/mouth disease/hoof mouth/hoof/hoof mouth disease
+*** The fuzzy KNN report is as follows: 
+(1) disease/mouth/mouth disease/hoof mouth/hoof/hoof mouth disease: 100.00%
+
+################################################
+ >>> Summary of k = 8 points selected: 
+Results: 
+
+>>> Group with keywords: 
+ disease/mouth/mouth disease/hoof mouth/hoof/hoof mouth disease :
+[1 / (0.31372)] + [1 / (0.10288)] + [1 / (0.10745)] + [1 / (0.11211)] + [1 / (0.11688)] + [1 / (0.12174)] + [1 / (0.12671)] + [1 / (0.13693)] = 70.07269
+
+
+*** The unknown document is classified into group with keywords: disease/mouth/mouth disease/hoof mouth/hoof/hoof mouth disease
+*** The fuzzy KNN report is as follows: 
+(1) disease/mouth/mouth disease/hoof mouth/hoof/hoof mouth disease: 100.00%
+
+################################################
+ >>> Summary of k = 9 points selected: 
+Results: 
+
+>>> Group with keywords: 
+ disease/mouth/mouth disease/hoof mouth/hoof/hoof mouth disease :
+[1 / (0.31372)] + [1 / (0.10288)] + [1 / (0.10745)] + [1 / (0.11211)] + [1 / (0.11688)] + [1 / (0.12174)] + [1 / (0.12671)] + [1 / (0.13693)] = 70.07269
+
+>>> Group with keywords: 
+ airline safety/airline/safety :
+[1 / (0.40013)] = 6.24584
+
+
+*** The unknown document is classified into group with keywords: disease/mouth/mouth disease/hoof mouth/hoof/hoof mouth disease
+*** The fuzzy KNN report is as follows: 
+(1) disease/mouth/mouth disease/hoof mouth/hoof/hoof mouth disease: 91.82%
+(2) airline safety/airline/safety: 8.18%
+
+################################################
+ >>> Summary of k = 10 points selected: 
+Results: 
+
+>>> Group with keywords: 
+ disease/mouth/mouth disease/hoof mouth/hoof/hoof mouth disease :
+[1 / (0.31372)] + [1 / (0.10288)] + [1 / (0.10745)] + [1 / (0.11211)] + [1 / (0.11688)] + [1 / (0.12174)] + [1 / (0.12671)] + [1 / (0.13693)] = 70.07269
+
+>>> Group with keywords: 
+ airline safety/airline/safety :
+[1 / (0.40013)] + [1 / (0.16259)] = 12.39645
+
+
+*** The unknown document is classified into group with keywords: disease/mouth/mouth disease/hoof mouth/hoof/hoof mouth disease
+*** The fuzzy KNN report is as follows: 
+(1) disease/mouth/mouth disease/hoof mouth/hoof/hoof mouth disease: 84.97%
+(2) airline safety/airline/safety: 15.03%

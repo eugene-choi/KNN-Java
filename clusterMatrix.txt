@@ -1,0 +1,6 @@
+
+>>>>>>>>>>> Cluster Label Matrix:
+                                                                           Cluster 1      Cluster 2      Cluster 3 
+                                           mortgage rate/mortgage/rate              8              0              0
+                                         airline safety/airline/safety              0              8              0
+        disease/mouth/mouth disease/hoof mouth/hoof/hoof mouth disease              0              0              8

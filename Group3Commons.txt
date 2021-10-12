@@ -1,0 +1,6 @@
+disease: 41
+mouth: 26
+mouth disease: 21
+hoof mouth: 24
+hoof: 24
+hoof mouth disease: 19

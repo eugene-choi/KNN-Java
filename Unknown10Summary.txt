@@ -1,0 +1,141 @@
+############# KNN started for Unknown10.txt ################
+[0.15077031828235163, 0.1653423792067863, 0.1747102865729378, 0.18138136697422852, 0.1827895953752063, 0.19873344645372912, 0.22016526249052484, 0.22083259742640432, 0.43458971277453745, 0.44150451345854613]
+################################################
+ >>> Summary of k = 1 points selected: 
+Results: 
+
+>>> Group with keywords: 
+ mortgage rate/mortgage/rate :
+[1 / (0.15077)] = 43.99145
+
+
+*** The unknown document is classified into group with keywords: mortgage rate/mortgage/rate
+*** The fuzzy KNN report is as follows: 
+(1) mortgage rate/mortgage/rate: 100.00%
+
+################################################
+ >>> Summary of k = 2 points selected: 
+Results: 
+
+>>> Group with keywords: 
+ mortgage rate/mortgage/rate :
+[1 / (0.15077)] + [1 / (0.02734)] = 80.57044
+
+
+*** The unknown document is classified into group with keywords: mortgage rate/mortgage/rate
+*** The fuzzy KNN report is as follows: 
+(1) mortgage rate/mortgage/rate: 100.00%
+
+################################################
+ >>> Summary of k = 3 points selected: 
+Results: 
+
+>>> Group with keywords: 
+ mortgage rate/mortgage/rate :
+[1 / (0.15077)] + [1 / (0.02734)] + [1 / (0.03052)] = 113.33188
+
+
+*** The unknown document is classified into group with keywords: mortgage rate/mortgage/rate
+*** The fuzzy KNN report is as follows: 
+(1) mortgage rate/mortgage/rate: 100.00%
+
+################################################
+ >>> Summary of k = 4 points selected: 
+Results: 
+
+>>> Group with keywords: 
+ mortgage rate/mortgage/rate :
+[1 / (0.15077)] + [1 / (0.02734)] + [1 / (0.03052)] + [1 / (0.03290)] = 143.72776
+
+
+*** The unknown document is classified into group with keywords: mortgage rate/mortgage/rate
+*** The fuzzy KNN report is as follows: 
+(1) mortgage rate/mortgage/rate: 100.00%
+
+################################################
+ >>> Summary of k = 5 points selected: 
+Results: 
+
+>>> Group with keywords: 
+ mortgage rate/mortgage/rate :
+[1 / (0.15077)] + [1 / (0.02734)] + [1 / (0.03052)] + [1 / (0.03290)] + [1 / (0.03341)] = 173.65709
+
+
+*** The unknown document is classified into group with keywords: mortgage rate/mortgage/rate
+*** The fuzzy KNN report is as follows: 
+(1) mortgage rate/mortgage/rate: 100.00%
+
+################################################
+ >>> Summary of k = 6 points selected: 
+Results: 
+
+>>> Group with keywords: 
+ mortgage rate/mortgage/rate :
+[1 / (0.15077)] + [1 / (0.02734)] + [1 / (0.03052)] + [1 / (0.03290)] + [1 / (0.03341)] + [1 / (0.03949)] = 198.97676
+
+
+*** The unknown document is classified into group with keywords: mortgage rate/mortgage/rate
+*** The fuzzy KNN report is as follows: 
+(1) mortgage rate/mortgage/rate: 100.00%
+
+################################################
+ >>> Summary of k = 7 points selected: 
+Results: 
+
+>>> Group with keywords: 
+ mortgage rate/mortgage/rate :
+[1 / (0.15077)] + [1 / (0.02734)] + [1 / (0.03052)] + [1 / (0.03290)] + [1 / (0.03341)] + [1 / (0.03949)] + [1 / (0.04847)] = 219.60691
+
+
+*** The unknown document is classified into group with keywords: mortgage rate/mortgage/rate
+*** The fuzzy KNN report is as follows: 
+(1) mortgage rate/mortgage/rate: 100.00%
+
+################################################
+ >>> Summary of k = 8 points selected: 
+Results: 
+
+>>> Group with keywords: 
+ mortgage rate/mortgage/rate :
+[1 / (0.15077)] + [1 / (0.02734)] + [1 / (0.03052)] + [1 / (0.03290)] + [1 / (0.03341)] + [1 / (0.03949)] + [1 / (0.04847)] + [1 / (0.04877)] = 240.11257
+
+
+*** The unknown document is classified into group with keywords: mortgage rate/mortgage/rate
+*** The fuzzy KNN report is as follows: 
+(1) mortgage rate/mortgage/rate: 100.00%
+
+################################################
+ >>> Summary of k = 9 points selected: 
+Results: 
+
+>>> Group with keywords: 
+ mortgage rate/mortgage/rate :
+[1 / (0.15077)] + [1 / (0.02734)] + [1 / (0.03052)] + [1 / (0.03290)] + [1 / (0.03341)] + [1 / (0.03949)] + [1 / (0.04847)] + [1 / (0.04877)] = 240.11257
+
+>>> Group with keywords: 
+ disease/mouth/mouth disease/hoof mouth/hoof/hoof mouth disease :
+[1 / (0.43459)] = 5.29470
+
+
+*** The unknown document is classified into group with keywords: mortgage rate/mortgage/rate
+*** The fuzzy KNN report is as follows: 
+(1) mortgage rate/mortgage/rate: 97.84%
+(2) disease/mouth/mouth disease/hoof mouth/hoof/hoof mouth disease: 2.16%
+
+################################################
+ >>> Summary of k = 10 points selected: 
+Results: 
+
+>>> Group with keywords: 
+ mortgage rate/mortgage/rate :
+[1 / (0.15077)] + [1 / (0.02734)] + [1 / (0.03052)] + [1 / (0.03290)] + [1 / (0.03341)] + [1 / (0.03949)] + [1 / (0.04847)] + [1 / (0.04877)] = 240.11257
+
+>>> Group with keywords: 
+ disease/mouth/mouth disease/hoof mouth/hoof/hoof mouth disease :
+[1 / (0.43459)] + [1 / (0.19493)] = 10.42484
+
+
+*** The unknown document is classified into group with keywords: mortgage rate/mortgage/rate
+*** The fuzzy KNN report is as follows: 
+(1) mortgage rate/mortgage/rate: 95.84%
+(2) disease/mouth/mouth disease/hoof mouth/hoof/hoof mouth disease: 4.16%

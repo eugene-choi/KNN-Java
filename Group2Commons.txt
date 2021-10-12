@@ -1,0 +1,3 @@
+airline safety: 10
+airline: 45
+safety: 33
